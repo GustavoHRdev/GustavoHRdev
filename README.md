@@ -1,63 +1,61 @@
-## 👋 Olá! Eu sou o Gustavo Honório
+# 👋 Olá, eu sou o Gustavo Honório
 
-🎓 Formado em **Tecnologia da Informação**  
-📚 Estudante de **Administração**  
-💼 Buscando oportunidades na área de **Desenvolvimento Front-End**  
-🌎 Foco em vagas **remotas**, com tecnologias modernas e ambiente colaborativo
-
----
-
-### 🚀 Tecnologias que eu sei utilizar
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+🎓 Formado em Tecnologia da Informação | 📚 Estudante de Administração (2º ano)  
+💻 Desenvolvedor Front-End focado em construir experiências interativas, modernas e responsivas  
+🌍 Buscando oportunidades **remotas** em ambientes colaborativos com tecnologias atuais  
 
 ---
 
-### 📌 Projetos em destaque
+## 🚀 Tecnologias que utilizo
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
 
 | Projeto | Descrição | Link |
-|--------|------------|------|
-| 🌐 Linktree Dev | Página de links pessoais com tema escuro/claro, responsiva e feita com React | *Em breve* |
-| 📋 To-Do List | Lista de tarefas com React, armazenamento local e filtros | *Em breve* |
+|--------|-----------|------|
+| 📝 **To-Do List App** | Lista de tarefas com React, filtro de tarefas e armazenamento local | [Repositório](https://github.com/GustavoHRdev/To-Do-List-App) |
+| 📦 **QR Code Generator** | Geração de QR Code a partir de links/texto com interface simples e responsiva | [Repositório](https://github.com/GustavoHRdev/QR-code-generator) |
+| 🌦️ **Weather App** | App que consome a API OpenWeatherMap para exibir a previsão do tempo | [Repositório](https://github.com/GustavoHRdev/Weather-App) |
+| 💼 **Portfólio Pessoal** | Página com informações profissionais, contatos e design responsivo | [Repositório](https://github.com/GustavoHRdev/Portfolio) |
+
+> Outros projetos como **E-commerce Gamer**, **Controle de Ponto**, **Linktree Dev** estão em desenvolvimento e serão publicados em breve.
 
 ---
 
-### 📫 Como me encontrar
+## 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/gustavo-honorio-0650421b1)
+- [LinkedIn](https://www.linkedin.com/in/gustavohrdev)
 - [GitHub](https://github.com/GustavoHRdev)
-- [WhatsApp](https://wa.me/554399644819)
-- Email:(gustavohonorio.GR@gmail.com)
+- 📧 E-mail: gustavohonorio.GR@gmail.com
 
 ---
 
-### 🧠 Um pouco sobre mim
+## 🧠 Sobre mim
 
-Atuei em diferentes áreas que fortalecem minhas habilidades no front-end:
-
-- 💼 Trabalhei na **Coamo**, em ambientes que exigiam organização e atenção aos detalhes
-- 🖥️ Tenho experiência com **manutenção de computadores**, o que me deu base sólida em lógica e estrutura técnica
-- 📂 Atuei com **controle de documentos** e tarefas administrativas, o que contribui com disciplina e responsabilidade
-- 🗂️ Atualmente trabalho em uma **loja de peças agrícolas** e **estagio no cartório eleitoral**, desenvolvendo minha comunicação, atendimento e capacidade de resolver problemas com autonomia
+💼 Já atuei em áreas administrativas, manutenção de computadores e controle de documentos  
+🧩 Atualmente trabalho em uma loja de peças agrícolas e estagio no cartório eleitoral  
+💬 Fortaleço diariamente habilidades como comunicação, foco, atendimento e autonomia
 
 ---
 
-### 🧩 Soft Skills & Habilidades de Front-End
+## 💡 Soft Skills & Qualidades Front-End
 
-- 👨‍💻 Facilidade de aprendizado e adaptação a novas tecnologias
-- 🤝 Excelente comunicação e trabalho em equipe
-- 🧠 Rápido raciocínio lógico
-- 📋 Organização e foco em entregar com qualidade
-- 📈 Capacidade de receber feedback e evoluir com ele
-- 🎯 Comprometido com metas e prazos
-- 💡 Proatividade e pensamento voltado à experiência do usuário (UX)
+- 👨‍💻 Aprendizado rápido e autodidata
+- 🤝 Trabalho em equipe e comunicação clara
+- 🎯 Foco em metas, organização e entregas com qualidade
+- 📈 Aberto a feedbacks construtivos
+- 💡 Pensamento voltado à experiência do usuário (UX)
+- 🔍 Atenção aos detalhes e proatividade
 
 ---
 
-> "A oportunidade aparece para quem se prepara. Estou pronto para mostrar o que posso entregar."
-
+> *"A oportunidade aparece para quem se prepara. Estou pronto para mostrar o que posso entregar."*
