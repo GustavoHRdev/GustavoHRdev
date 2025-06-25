@@ -28,8 +28,10 @@
 | 📦 **QR Code Generator** | Gerador de QR Codes para links e texto, com design simples e responsivo. Útil para compartilhamento rápido e acessível de informações. | [Repositório](https://github.com/GustavoHRdev/QR-code-generator) |
 | 🌦️ **Weather App** | Aplicação para previsão do tempo integrada à API OpenWeatherMap, com interface clara e dados atualizados para planejamento de rotina. | [Repositório](https://github.com/GustavoHRdev/Weather-App) |
 | 💼 **Portfólio Pessoal** | Página profissional atualizada, destacando experiência, principais projetos e contatos para networking e parcerias. | [Repositório](https://github.com/GustavoHRdev/Portfolio) • [Visualização Online](https://gustavohrdev.github.io/web-developer-portfolio/) |
+| 🌳 **Linktree Dev** | Página de links para centralização de redes e contatos profissionais, criada com HTML, CSS e JavaScript. | [Repositório](https://github.com/GustavoHRdev/Linktree-GHR) • [Visualização Online](https://gustavohrdev.github.io/Linktree-GHR/) |
 
-> Outros projetos como **E‑commerce Gamer**, **Controle de Ponto** e **Linktree Dev** estão em desenvolvimento e serão publicados em breve.
+> Outros projetos como E‑commerce Gamer e Controle de Ponto estão em desenvolvimento e serão publicados em breve.
+O Linktree Dev foi finalizado e está disponível para acesso
 
 ---
 
