@@ -31,7 +31,7 @@
 | 🌳 **Linktree Dev** | Página de links para centralização de redes e contatos profissionais, criada com HTML, CSS e JavaScript. | [Repositório](https://github.com/GustavoHRdev/Linktree-GHR) • [Visualização Online](https://gustavohrdev.github.io/Linktree-GHR/) |
 
 > Outros projetos como E‑commerce Gamer e Controle de Ponto estão em desenvolvimento e serão publicados em breve.
-O Linktree Dev foi finalizado e está disponível para acesso
+> O Linktree Dev foi finalizado e está disponível para acesso
 
 ---
 
