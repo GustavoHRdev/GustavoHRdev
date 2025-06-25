@@ -1,4 +1,4 @@
-# 👋 Gustavo Honório
+# 👋 Gustavo Honorio
 [🇧🇷 Ver em Português](#versao-pt-br) | [🇬🇧 See in English](#english-version)
 
 ---
