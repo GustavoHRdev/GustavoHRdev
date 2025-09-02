@@ -88,15 +88,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavohrdev&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrdev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="right">
   <a href="#top">🔝 Voltar ao topo</a>
 </p>
@@ -171,15 +162,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavohrdev&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrdev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/animat-rocket.gif" width="30" />
   <strong>Always evolving, learning and creating with purpose.</strong>
@@ -188,5 +170,5 @@
 ---
 
 <p align="right">
-  <a href="#top">🔝 Voltar ao topo</a>
+  <a href="#top">🔝 Back to top</a>
 </p>
