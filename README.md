@@ -122,9 +122,6 @@ With hands-on experience building backend solutions using Java and Spring Boot, 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🔢 **Java Calculator** | Arithmetic operations using OOP and control flow | Repository |
-| 🌡️ **Temperature Converter** | Java program using Scanner + logic + modularization | Repository |
-| 🧮 **Calculation System** | Clean code–first logic project | Coming soon |
 | 🔐 **Spring Security API** | JWT authentication REST API | In progress |
 
 ---
