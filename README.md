@@ -53,9 +53,6 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 🔢 **Calculadora Java** | Operações aritméticas com OOP e controle de fluxo | Repositório |
-| 🌡️ **Conversor de Temperatura** | App modularizado usando Scanner e boas práticas | Repositório |
-| 🧮 **Sistema de Cálculos** | Projeto voltado a lógica e clean code | Em breve |
 | 🔐 **API com Spring Security** | Autenticação JWT + boas práticas REST | Em desenvolvimento |
 
 ---
