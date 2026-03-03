@@ -83,7 +83,6 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-java-springboot)  
 - 💻 [GitHub](https://github.com/GustavoHRdev)  
-- 🌳 [Linktree](https://gustavohrdev.github.io/Linktree-GHR/)  
 - 📧 Email: gustavohonorio.GR@gmail.com  
 - 📱 WhatsApp: https://wa.me/5543996448129  
 
