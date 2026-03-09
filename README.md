@@ -17,7 +17,7 @@
 
 ---
 
-# 👋 Gustavo Honório Ribeiro  
+## 👋 Gustavo Honório Ribeiro  
 [🇧🇷 Ver em Português](#versao-pt-br) •  
 [🇬🇧 English Version](#english-version)
 
@@ -52,7 +52,8 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 🔐 **API com Spring Security** | Autenticação JWT + boas práticas REST | Em desenvolvimento |
+| 🔧 **MiniCRUD** | Aplicação CRUD simples para gerenciamento de dados, desenvolvida em Java. | [GitHub Link](https://github.com/GustavoHRdev/mini-crud) |
+| 📦 **Order Management System** | Sistema de gerenciamento de pedidos em desenvolvimento, focado em serviços backend. | [GitHub Link](https://github.com/GustavoHRdev/order-management-system) |
 
 ---
 
@@ -120,7 +121,8 @@ With hands-on experience building backend solutions using Java and Spring Boot, 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🔐 **Spring Security API** | JWT authentication REST API | In progress |
+| 🔧 **MiniCRUD** | Simple CRUD application for data management built in Java. | [GitHub Link]([https://github.com/GustavoHRdev/mini-crud](https://github.com/GustavoHRdev/Sistema-de-Gerenciamento-de-Clientes)) |
+| 📦 **Order Management System** | In development, focused on backend services for order management. | [GitHub Link]() |
 
 ---
 
