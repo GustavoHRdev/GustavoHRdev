@@ -18,7 +18,6 @@
 ---
 
 # 👋 Gustavo Honório Ribeiro  
-[🌐 Portfolio](https://gustavohrdev.github.io/GHR.portfolio/) •  
 [🇧🇷 Ver em Português](#versao-pt-br) •  
 [🇬🇧 English Version](#english-version)
 
