@@ -17,16 +17,16 @@
 
 ---
 
-## 👋 Gustavo Honório Ribeiro  
-[🇧🇷 Ver em Português](#versao-pt-br) •  
+## 👋 Gustavo Honório Ribeiro
+[🇧🇷 Ver em Português](#versao-pt-br) •
 [🇬🇧 English Version](#english-version)
 
 ---
 
 ## 🇧🇷 Versão PT-BR <a name="versao-pt-br"></a>
 
-🎓 Tecnólogo em TI | 📚 Estudante de Administração  
-⚙️ **Desenvolvedor Back-End Java**  
+🎓 Tecnólogo em TI | 📚 Estudante de Administração
+⚙️ **Desenvolvedor Back-End Java**
 🚀 Focado em APIs REST, arquitetura limpa e aplicações escaláveis
 
 Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico conceitos de orientação a objetos, padrões de projeto e boas práticas para criar sistemas consistentes, moduláveis e de fácil manutenção.
@@ -52,39 +52,26 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 🔧 **MiniCRUD** | Aplicação CRUD simples para gerenciamento de dados, desenvolvida em Java. | [GitHub Link](https://github.com/GustavoHRdev/mini-crud) |
-| 📦 **Order Management System** | Sistema de gerenciamento de pedidos em desenvolvimento, focado em serviços backend. | [GitHub Link](https://github.com/GustavoHRdev/order-management-system) |
+| 📦 **Order Management System** | API REST para gerenciamento de pedidos com Spring Boot, Spring MVC, JDBC, H2, Bean Validation, testes com MockMvc e CI com GitHub Actions. | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
+| 🔧 **Client Registration System** | Aplicação console em Java puro para praticar OOP, Collections e estruturação de código. | [GitHub](https://github.com/GustavoHRdev/Client-Registration-System) |
 
 ---
 
 ## 🧠 Sobre Mim
 
-- ⚙️ Desenvolvedor Back-End com foco em Java  
-- 🧩 Forte base em lógica, OOP e estruturação de código  
-- 🎯 Comprometido em escrever código limpo, modular e performático  
-- 🧪 Estudando continuamente Spring Boot, SQL, APIs e testes  
-- 🌍 Buscando minha primeira oportunidade remota como Backend Developer  
-
----
-
-## 🧩 Soft Skills
-
-- Organização e foco  
-- Raciocínio lógico  
-- Trabalho em equipe  
-- Comunicação clara  
-- Aprendizado rápido  
-- Atenção aos detalhes  
-- Proatividade para resolver problemas  
+- ⚙️ Desenvolvedor Back-End com foco em Java e Spring Boot
+- 🧩 Forte base em OOP, modelagem de domínio e regras de negócio
+- 🎯 Comprometido em escrever código limpo, testável e bem estruturado
+- 🌍 Buscando minha primeira oportunidade remota como Backend Developer
 
 ---
 
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-java-springboot)  
-- 💻 [GitHub](https://github.com/GustavoHRdev)  
-- 📧 Email: gustavohonorio.GR@gmail.com  
-- 📱 WhatsApp: https://wa.me/5543996448129  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-java-springboot)
+- 💻 [GitHub](https://github.com/GustavoHRdev)
+- 📧 Email: gustavohonorio.GR@gmail.com
+- 📱 WhatsApp: https://wa.me/5543996448129
 
 ---
 
@@ -94,8 +81,8 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 ## 🇬🇧 English Version <a name="english-version"></a>
 
-🎓 IT Technologist | 📚 Business Administration Student  
-⚙️ **Backend Developer – Java + Spring Boot**  
+🎓 IT Technologist | 📚 Business Administration Student
+⚙️ **Backend Developer – Java + Spring Boot**
 🚀 Focused on clean architecture, REST APIs and scalable systems
 
 With hands-on experience building backend solutions using Java and Spring Boot, I apply OOP, clean code principles and design patterns to create reliable and maintainable applications.
@@ -121,18 +108,26 @@ With hands-on experience building backend solutions using Java and Spring Boot, 
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🔧 **MiniCRUD** | Simple CRUD application for data management built in Java. | [GitHub Link]([https://github.com/GustavoHRdev/mini-crud](https://github.com/GustavoHRdev/Sistema-de-Gerenciamento-de-Clientes)) |
-| 📦 **Order Management System** | In development, focused on backend services for order management. | [GitHub Link]() |
+| 📦 **Order Management System** | REST API for order management built with Spring Boot, Spring MVC, JDBC, H2, Bean Validation, MockMvc integration tests and GitHub Actions CI. | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
+| 🔧 **Client Registration System** | Console application in pure Java to practice OOP, Collections and code organization. | [GitHub](https://github.com/GustavoHRdev/Client-Registration-System) |
 
 ---
 
 ## 🧠 About Me
 
-- Backend Developer focused on Java  
-- Strong logical thinking and clean code mindset  
-- Prior experience in Front-End and administrative roles  
-- Constantly improving Spring Boot, SQL and API development  
-- Goal: land my first remote Backend position  
+- Backend Developer focused on Java and Spring Boot
+- Strong foundation in OOP, domain modeling and business rules
+- Committed to writing clean, testable and well-structured code
+- Looking for my first remote opportunity as a Backend Developer
+
+---
+
+## 📫 Find me at
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-java-springboot)
+- 💻 [GitHub](https://github.com/GustavoHRdev)
+- 📧 Email: gustavohonorio.GR@gmail.com
+- 📱 WhatsApp: https://wa.me/5543996448129
 
 ---
 
