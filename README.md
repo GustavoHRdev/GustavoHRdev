@@ -4,15 +4,15 @@
 
 ---
 
-<h1 align="center">⚙️ Gustavo Honório Ribeiro – Backend Developer (Java + Spring Boot) 🚀</h1>
+<h1 align="center">⚙️ Gustavo Honório Ribeiro – Java Backend Developer 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=flat&logo=java&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>☕ Java | Spring Boot | REST APIs | SQL | Git | Linux</b><br />
-  <i>Backend Development • API Architecture • Open to Remote Opportunities 🌍</i>
+  <b>☕ Java 17 & 21 | Spring Boot | PostgreSQL | RabbitMQ | REST APIs | Microservices</b><br />
+  <i>Backend em produção industrial • Sistemas distribuídos • Open to Remote 🌍</i>
 </p>
 
 ---
@@ -25,11 +25,14 @@
 
 ## 🇧🇷 Versão PT-BR <a name="versao-pt-br"></a>
 
-🎓 Tecnólogo em TI | 📚 Estudante de Administração
-⚙️ **Desenvolvedor Back-End Java**
-🚀 Focado em APIs REST, arquitetura limpa e aplicações escaláveis
+⚙️ **Desenvolvedor Backend Java**
+🏭 Código em produção industrial | 🚀 Sistemas distribuídos | 🌍 Open to Remote
 
-Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico conceitos de orientação a objetos, padrões de projeto e boas práticas para criar sistemas consistentes, moduláveis e de fácil manutenção.
+Desenvolvo sistemas backend que resolvem problemas reais de produção industrial.
+
+Na SL Alimentos, construo soluções em Java, Spring Boot e PostgreSQL que automatizam processos críticos de produção — sistemas utilizados diariamente em linhas com clientes como Nestlé e PepsiCo, reduzindo em até 80% o tempo de análise operacional.
+
+Nos projetos pessoais, aplico arquitetura distribuída com microserviços, mensageria assíncrona e garantias de consistência financeira.
 
 ---
 
@@ -38,31 +41,38 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003545?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ## 📌 Projetos de Back-End
 
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| 📦 **Order Management System** | API REST para gerenciamento de pedidos com Spring Boot, Spring MVC, JDBC, H2, Bean Validation, testes com MockMvc e CI com GitHub Actions. | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
-| 🔧 **Client Registration System** | Aplicação console em Java puro para praticar OOP, Collections e estruturação de código. | [GitHub](https://github.com/GustavoHRdev/Client-Registration-System) |
+| Projeto | Descrição | Stack principal | Link |
+|--------|-----------|-----------------|------|
+| 🏦 **LedgerBank — PIX API** | Sistema financeiro distribuído com transferências PIX assíncronas, ledger imutável, Outbox Pattern e idempotência real | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
+| 📦 **Order Management System** | API REST para gerenciamento de pedidos evoluída de console app, com testes automatizados e CI | Java 17 • Spring Boot • JDBC • H2 • MockMvc • GitHub Actions | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
+| 🔧 **Excel Gap Detector** | Ferramenta Java de linha de comando para detectar intervalos incomuns em relatórios Excel industriais — em uso na SL Alimentos | Java 17 • Maven • Apache POI | — |
+| 🤖 **WhatsApp Production Bot** | Sistema de monitoramento de produção industrial via WhatsApp, validando evidências de 7 máquinas em 3 turnos com alertas automáticos *(em desenvolvimento — repositório privado)* | Java 21 • Spring Boot • PostgreSQL • JPA | — |
 
 ---
 
 ## 🧠 Sobre Mim
 
-- ⚙️ Desenvolvedor Back-End com foco em Java e Spring Boot
-- 🧩 Forte base em OOP, modelagem de domínio e regras de negócio
-- 🎯 Comprometido em escrever código limpo, testável e bem estruturado
-- 🌍 Buscando minha primeira oportunidade remota como Backend Developer
+- 🏭 Código em produção real — automações industriais utilizadas diariamente na SL Alimentos
+- ⚙️ Especializado em Java 17/21, Spring Boot, APIs REST e sistemas distribuídos
+- 🧩 Base sólida em OOP, modelagem de domínio e regras de negócio
+- 🔐 Experiência com consistência de dados, mensageria assíncrona e confiabilidade de sistemas
+- 🎯 Comprometido em escrever código limpo, testável e defensável em entrevista
 
 ---
 
@@ -81,11 +91,14 @@ Com experiência prática desenvolvendo soluções em Java e Spring Boot, aplico
 
 ## 🇬🇧 English Version <a name="english-version"></a>
 
-🎓 IT Technologist | 📚 Business Administration Student
-⚙️ **Backend Developer – Java + Spring Boot**
-🚀 Focused on clean architecture, REST APIs and scalable systems
+⚙️ **Java Backend Developer**
+🏭 Production code in industrial systems | 🚀 Distributed systems | 🌍 Open to Remote
 
-With hands-on experience building backend solutions using Java and Spring Boot, I apply OOP, clean code principles and design patterns to create reliable and maintainable applications.
+I build backend systems that solve real industrial production problems.
+
+At SL Alimentos, I develop Java, Spring Boot and PostgreSQL solutions that automate critical production processes — systems used daily on production lines for clients like Nestlé and PepsiCo, reducing operational analysis time by up to 80%.
+
+In personal projects, I apply distributed architecture with microservices, asynchronous messaging and financial consistency guarantees.
 
 ---
 
@@ -94,31 +107,38 @@ With hands-on experience building backend solutions using Java and Spring Boot, 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003545?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 📦 **Order Management System** | REST API for order management built with Spring Boot, Spring MVC, JDBC, H2, Bean Validation, MockMvc integration tests and GitHub Actions CI. | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
-| 🔧 **Client Registration System** | Console application in pure Java to practice OOP, Collections and code organization. | [GitHub](https://github.com/GustavoHRdev/Client-Registration-System) |
+| Project | Description | Main Stack | Link |
+|--------|-------------|------------|------|
+| 🏦 **LedgerBank — PIX API** | Distributed financial system with async PIX transfers, immutable ledger, Outbox Pattern and real idempotency | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
+| 📦 **Order Management System** | REST API for order management evolved from console app, with automated tests and CI | Java 17 • Spring Boot • JDBC • H2 • MockMvc • GitHub Actions | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
+| 🔧 **Excel Gap Detector** | Java CLI tool to detect unusual time gaps in industrial Excel reports — in production use at SL Alimentos | Java 17 • Maven • Apache POI | — |
+| 🤖 **WhatsApp Production Bot** | Industrial production monitoring system via WhatsApp, validating evidence from 7 machines across 3 shifts with automatic alerts *(in development — private repo)* | Java 21 • Spring Boot • PostgreSQL • JPA | — |
 
 ---
 
 ## 🧠 About Me
 
-- Backend Developer focused on Java and Spring Boot
-- Strong foundation in OOP, domain modeling and business rules
-- Committed to writing clean, testable and well-structured code
-- Looking for my first remote opportunity as a Backend Developer
+- 🏭 Production code — industrial automations running daily at SL Alimentos
+- ⚙️ Specialized in Java 17/21, Spring Boot, REST APIs and distributed systems
+- 🧩 Strong foundation in OOP, domain modeling and business rules
+- 🔐 Experience with data consistency, async messaging and system reliability
+- 🎯 Committed to writing clean, testable and interview-defensible code
 
 ---
 
