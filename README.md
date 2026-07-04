@@ -61,7 +61,7 @@ Nos projetos pessoais, aplico arquitetura distribuída com microserviços, mensa
 |--------|-----------|-----------------|------|
 | 🏦 **LedgerBank — PIX API** | Sistema financeiro distribuído com transferências PIX assíncronas, ledger imutável, Outbox Pattern e idempotência real | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
 | 📦 **Order Management System** | API REST para gerenciamento de pedidos evoluída de console app, com testes automatizados e CI | Java 17 • Spring Boot • JDBC • H2 • MockMvc • GitHub Actions | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
-| 🔧 **Excel Gap Detector** | Ferramenta Java de linha de comando para detectar intervalos incomuns em relatórios Excel industriais — em uso na SL Alimentos | Java 17 • Maven • Apache POI | — |
+| 🔧 **Excel Gap Detector** | Ferramenta Java de linha de comando para detectar intervalos incomuns em relatórios Excel industriais — em uso na SL Alimentos | Java 17 • Maven • Apache POI | — | [GitHub](https://github.com/GustavoHRdev/Excel-Gap-Detector.git)
 | 🤖 **WhatsApp Production Bot** | Sistema de monitoramento de produção industrial via WhatsApp, validando evidências de 7 máquinas em 3 turnos com alertas automáticos *(em desenvolvimento — repositório privado)* | Java 21 • Spring Boot • PostgreSQL • JPA | — |
 
 ---
