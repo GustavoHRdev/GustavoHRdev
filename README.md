@@ -67,8 +67,8 @@ In personal projects, I apply distributed architecture with microservices, async
 
 | Project | Description | Main Stack | Link |
 |--------|-------------|------------|------|
-| 🤖 **WhatsApp Production Bot** | Backend system for industrial production monitoring with asynchronous event processing, automated validation rules and real-time notifications. | Java 21 • Spring Boot • PostgreSQL • JPA | [GitHub](https://github.com/GustavoHRdev/ControleProducaoApplication) |
-| 🏦 **LedgerBank — PIX API** | Distributed financial API simulating Brazil's instant payment system (PIX) with immutable ledger, Outbox Pattern, idempotency and asynchronous processing, transaction consistency, Outbox Pattern, idempotency and asynchronous processing. | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
+| 🤖 WhatsApp Production Bot | Backend system in production for industrial evidence monitoring across multiple production lines. Features an abbreviation-tolerant parser, SLA-driven WhatsApp and email notifications, and end-to-end operational traceability. Source code is confidential.| Java 21 • Spring Boot • PostgreSQL • JPA • Evolution API| 🔒 Private |
+| 🏦 **LedgerBank — PIX API** | Distributed financial API simulating Brazil's instant payment system (PIX) with immutable ledger, Outbox Pattern, idempotent request processing, asynchronous messaging, and transactional consistency. | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
 | 🔧 **Excel Gap Detector** | Java CLI tool to detect unusual time gaps in industrial Excel reports — in production use at SL Alimentos, reducing operational analysis time by 80% | Java 17 • Maven • Apache POI | [GitHub](https://github.com/GustavoHRdev/Excel-Gap-Detector) |
 | 📦 **Order Management System** | REST API for order management evolved from console app, with automated tests and CI | Java 17 • Spring Boot • JDBC • H2 • MockMvc • GitHub Actions | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
 
