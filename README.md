@@ -42,13 +42,11 @@
 
 ⚙️ **Java Backend Developer | Building scalable and reliable backend systems with Spring Boot**
 
-🏭 Building reliable backend systems focused on scalability, distributed architectures and business rules | 🚀 Distributed systems | 🌍 Open to Remote
-
-I build reliable backend systems focused on automation, distributed architectures and solving complex business problems.
-
-I develop backend solutions for industrial production environments, automating critical operational processes and improving efficiency through Java and Spring Boot applications.
-
-In personal projects, I apply distributed architecture with microservices, asynchronous messaging and consistency guarantees for financial transactions.
+I develop production-grade backend applications using Java and Spring Boot, focusing on 
+distributed architectures, automation, business rules, and reliable system design. 
+Professionally, I build software for industrial production environments. In personal 
+projects, I explore distributed systems, asynchronous messaging, transaction consistency, 
+and scalable backend architectures.
 
 ---
 
@@ -67,9 +65,9 @@ In personal projects, I apply distributed architecture with microservices, async
 
 | Project | Description | Main Stack | Link |
 |--------|-------------|------------|------|
-| 🤖 WhatsApp Production Bot | Backend system in production for industrial evidence monitoring across multiple production lines. Features an abbreviation-tolerant parser, SLA-driven WhatsApp and email notifications, and end-to-end operational traceability. Source code is confidential.| Java 21 • Spring Boot • PostgreSQL • JPA • Evolution API| 🔒 Private |
+| 🤖 **Industrial Production Monitoring System** | Backend system in production for industrial evidence monitoring across multiple production lines. Features an abbreviation-tolerant parser, SLA-driven WhatsApp and email notifications, and end-to-end operational traceability. Source code is confidential. | Java 21 • Spring Boot - PostgreSQL • JPA • Evolution API | 🔒 Private |
 | 🏦 **LedgerBank — PIX API** | Distributed financial API simulating Brazil's instant payment system (PIX) with immutable ledger, Outbox Pattern, idempotent request processing, asynchronous messaging, and transactional consistency. | Java 21 • Spring Boot • PostgreSQL • RabbitMQ • Redis • Testcontainers | [GitHub](https://github.com/GustavoHRdev/LedgerBank---Instant-Payment---Pix-API) |
-| 🔧 **Excel Gap Detector** | Java CLI tool to detect unusual time gaps in industrial Excel reports — in production use at SL Alimentos, reducing operational analysis time by 80% | Java 17 • Maven • Apache POI | [GitHub](https://github.com/GustavoHRdev/Excel-Gap-Detector) |
+| 🔧 **Excel Gap Detector** | Java CLI tool used in a real industrial production environment to detect unusual time gaps in Excel reports, reducing operational analysis time by up to 80%. | Java 17 • Maven • Apache POI | [GitHub](https://github.com/GustavoHRdev/Excel-Gap-Detector) |
 | 📦 **Order Management System** | REST API for order management evolved from console app, with automated tests and CI | Java 17 • Spring Boot • JDBC • H2 • MockMvc • GitHub Actions | [GitHub](https://github.com/GustavoHRdev/Order-Management-System) |
 
 
