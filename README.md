@@ -58,10 +58,13 @@ Desenvolvo aplicações backend prontas para produção utilizando Java e Spring
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoHRdev&show_icons=true&theme=radical" alt="Gustavo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHRdev&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+
+[![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoHRdev&show_icons=true&theme=radical)](https://github.com/GustavoHRdev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHRdev&layout=compact&theme=radical)](https://github.com/GustavoHRdev)
+
+</div>
 
 ---
 
